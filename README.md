@@ -1,6 +1,6 @@
-# flutter_login_sample
+# Flutter Login Screens example
 
-A new Flutter project.
+Flutter project used to start learning about design and use of ClipPath to build more beutiful interfaces
 
 ## Getting Started
 
